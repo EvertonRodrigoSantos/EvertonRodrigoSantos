@@ -1,6 +1,6 @@
 ## Sobre Mim
 
-Olá! Eu sou Everton, um Coodenador de TI apaixonado por tecnologias, gestão de pessoas, proejetos inovadores e cloud. 
+Olá! Eu sou Everton, um Coodenador de TI apaixonado por tecnologias, gestão de pessoas, projetos inovadores e cloud. 
 Minha trajetória inclui: gestão de infraestrutura de TI, aplicações, DevOps, segurança da informação, suporte e cloud (AWS, Azure, OCI). 
 Tenho experiência em gerenciamento de mudanças, pipelines CI/CD, automação com IaC (Terraform, Ansible, AWS CloudFormation) e implementação de programas de upgrades.
 
